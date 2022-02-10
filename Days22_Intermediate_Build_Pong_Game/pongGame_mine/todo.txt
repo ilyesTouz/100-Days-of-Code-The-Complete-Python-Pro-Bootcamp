@@ -1,0 +1,23 @@
+TODO : 
+# 1) Create the screen
+# 2) Create and move the paddle
+# 3) Create and move the ball
+# 4) Detect collision with walls and bounce
+# 5) Detect collision with paddle
+# 6) Detect when paddle miss (ie the ball touch the right or the left of the screen)
+# 7) Keep score
+
+1) Create the screen
+- import from turtle ok
+- put black background ok
+- set screen size ok
+- deactivate tracer ok
+- listen the screen (to detect keyboard)
+- exit the screen on click ok
+
+
+2) Create and move the paddle 
+- Create move turtle to the north
+- Each turtle has to follow the turtle ahead
+
+3) Create and move the ball
